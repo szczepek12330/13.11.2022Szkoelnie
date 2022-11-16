@@ -16,3 +16,4 @@ print(pairs)
 
 slownik = {1: "Tomek", 2:"Jakub", 3: "Łukasz"}
 print({value: key for key, value in slownik.items()})
+
