@@ -1,5 +1,5 @@
-# imie = input("Podaj swoje imię:")
-# print(f"Cześć {imie}")
+# __imie = input("Podaj swoje imię:")
+# print(f"Cześć {__imie}")
 
 a= input("Podaj 1 liczbę:")
 b= input("Podaj 2 liczbę:")

@@ -11,8 +11,8 @@
 # # print(zmienne.index(433))
 # krotka = (ROK, 43,"Tomek", 54 / 3, (44, 55, 66))
 # print(krotka)
-# imie = krotka[2]
-# print(imie)
+# __imie = krotka[2]
+# print(__imie)
 # imie1, *imie2 = zmienne
 # print(imie1)
 # print(imie2)

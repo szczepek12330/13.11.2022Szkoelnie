@@ -13,8 +13,8 @@
 # # # lista.sort()
 # # # lista.reverse()
 # # # print(lista)
-# # # imie = "Michał"
-# # # nowa_lista = list(imie)
+# # # __imie = "Michał"
+# # # nowa_lista = list(__imie)
 # # # nowa_lista.extend(1, 2, 3)
 # # # print(nowa_lista)
 # # liczby = [1, 3, 5, 7]
